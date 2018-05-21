@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Deal Of The Day</string>
+    <string name="no_data_available">No Content Available</string>
+    <string name="network_error">Network Error</string>
+    <string name="title_activity_coupon_detail">Coupon Details</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="row_title_text_height">18sp</dimen>
+    <dimen name="row_desc_text_height">14sp</dimen>
+    <dimen name="listview_row_height">210dp</dimen>
+    <dimen name="row_imageview_height">180dp</dimen>
+    <dimen name="row_text_margin_start">40dp</dimen>
+    <dimen name="row_text_margin_top">10dp</dimen>
+    <dimen name="row_text_margin_bottom">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
